@@ -13,6 +13,7 @@ dist-ssr
 *.local
 .wrangler/
 **/.wrangler/
+.env
 
 # Dados pessoais de importação (não comitar)
 b3-import/
@@ -34,3 +35,5 @@ b3-import/
 *.njsproj
 *.sln
 *.sw?
+
+.env
