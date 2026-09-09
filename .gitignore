@@ -35,5 +35,3 @@ b3-import/
 *.njsproj
 *.sln
 *.sw?
-
-.env
